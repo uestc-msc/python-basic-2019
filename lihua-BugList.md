@@ -32,18 +32,25 @@ Traceback (most recent call last):
 TypeError: 'module' object is not callable
 ```
 
-### 正确运行输出示例
+### 期望输出示例
 
 ```shell
 1569436649.6920297
 ```
 
+### 原因
+
+TODO
+
+### 解决方案
+
+TODO
+
 ## 2
 
 ### 描述
 
-传递给`max()`一个列表, 会返回列表中的最大值, 但问题是这个不应被改动的列表的顺序
-改变了.
+传递给`max()`一个列表, 会返回列表中的最大值, 但问题是这个不应被改动的列表的**顺序**改变了.
 
 ```python
 def max(list):
@@ -61,8 +68,16 @@ print(str(max(l)) + ' is ' + 'The max element in ' + str(l))
 9 is The max element in [1, 3, 4, 7, 9]
 ```
 
-### 正确运行输出示例
+### 期望输出示例
 
 ```shell
 9 is The max element in [3, 1, 4, 7, 9]
 ```
+
+### 原因
+
+TODO
+
+### 解决方案
+
+TODO

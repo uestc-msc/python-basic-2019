@@ -4,6 +4,7 @@
 
 1. 持续更新的博客💪
 
+   - [Ubuntu虚拟机中Python环境配置](https://uestc-msc.github.io/2019/10/09/Ubuntu%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%ADPython%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/)
    - TODO
 
 2. :open_book:当然[Python官方文档](https://docs.python.org/zh-cn/3/)是非常值得看的.

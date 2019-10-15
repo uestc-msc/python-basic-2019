@@ -5,10 +5,13 @@
 ### Python
 - 持续更新的博客💪
 
+  - [Python基础杂烩](https://uestc-msc.github.io/2019/10/15/Python%E5%9F%BA%E7%A1%80%E6%9D%82%E7%83%A9/)
   - [Ubuntu虚拟机中Python环境配置](https://uestc-msc.github.io/2019/10/09/Ubuntu%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%ADPython%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/)
   - TODO
 
-- :open_book:当然[Python**官方文档**](https://docs.python.org/zh-cn/3/)是非常值得看的.
+- 📖 当然[Python**官方文档**](https://docs.python.org/zh-cn/3/)是非常值得看的.
+
+- 🌟🌟🌟 [Python Tutor](http://pythontutor.com/) 是一个强烈推荐的可视化你的Python代码运行具体过程的网页工具
 
 - 📑 [廖雪峰的Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000), [Python3教程|菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html)这些网站由浅到深**罗列了Python的知识点, 很适合速成**.
 - 📚 [热心网友](http://ldzhangyx.github.io/)推荐[Python编程: 从入门到项目](https://github.com/ithou/awesome-programming-books/blob/master/Python/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf). 这本书书如其名: 前半是入门知识 (**确实是小白级详细**) , 后半是项目

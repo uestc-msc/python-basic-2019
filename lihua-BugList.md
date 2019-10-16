@@ -81,3 +81,33 @@ TODO
 ### 解决方案
 
 TODO
+
+## 3
+
+### 描述
+
+这是一个很值得注意的问题. 同样有一个很明显的错误, 为什么**代码片段一能成功运行**而**代码片段二会报错**?
+
+代码片段一
+
+```python
+i = 666
+if i > 250:
+    print('It works!')
+else:
+    print('It will never run into here')
+    # then a obvious bug
+    everpveqmrpm
+```
+
+代码片段二
+
+```python
+i = 666
+if i > 250:
+    print('It works!')
+else:
+    print('It will never run into here')
+# then a obvious bug
+everpveqmrpm
+```

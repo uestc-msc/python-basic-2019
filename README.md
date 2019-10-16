@@ -30,7 +30,7 @@
 ## 实践项目
 
 - 我们的小组项目
-   - 待定
+   - [warm up sweets](warm-up-sweets/README.md)
    - [PyVim](https://github.com/uestc-msc/pyVim)
    - \***
 - 这个[Project Euler](https://projecteuler.net/archives)上有许多有趣的题目, 可以试着用Python来解决

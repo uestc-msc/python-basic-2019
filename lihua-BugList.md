@@ -40,7 +40,7 @@ TypeError: 'module' object is not callable
 
 ### 原因
 
-阅读报错信息可知错误示例中的time()做的事是调用**time**模块(module)，而我们想做的的是调用**time**模块中的**time**方法(function)
+阅读报错信息可知错误示例中的 **time()** 做的事是调用**time**模块(module)，而我们想做的的是调用**time**模块中的**time()**方法(function)
 
 ### 解决方案
 

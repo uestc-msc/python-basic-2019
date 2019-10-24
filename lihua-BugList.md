@@ -84,11 +84,11 @@ print(str(max(l)) + ' is ' + 'The max element in ' + str(l))
 
 ### 原因
 
-方法 **sort()** 的作用是永久性的，用max()处理后l顺序改变并不会复原
+方法 **sort()** 的作用是永久性的，故用max()处理后列表顺序改变并且不会复原
 
 ### 解决方案
 
-使用函数 **sorted()** 处理l再赋值给另外一个变量
+使用函数 **sorted()** 处理列表再**赋值**给另外一个变量
 ```shell
 def max(list):
     list1 = sorted(list)

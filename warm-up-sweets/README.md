@@ -25,7 +25,7 @@
 
 | 项目                                         | 难度               | 参考代码量 | 关键词                              |
 | -------------------------------------------- | ------------------ | ---------- | ----------------------------------- |
-| [装机向导](setup-wizard/README.md/README.md) | :star:             | 20+        | dict, 调用shell命令, 彩色输出       |
+| [装机向导](setup-wizard/README.md) | :star:             | 20+        | dict, 调用shell命令, 彩色输出       |
 | [随机P站图片壁纸](pixiv-wallpaper/README.md) | :star::star:       | 50+        | 爬虫, requests库, 可个性化参数, try |
 | [微信文章搬运小助手](wxcopyer/README.md)     | :star::star::star: | 40         | 正则, 文件读写                      |
 

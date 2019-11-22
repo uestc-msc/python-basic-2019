@@ -40,3 +40,20 @@
 要求能把`./test/test.html`中的图片地址全部替换为本地地址, 图片下载到**html文件所在目录**下**文件同名文件夹**.示例输出可以看`./test_output`.
 
 💡 你可以利用VSC的**文件比较功**能比较我提供的`test/test.html`好`test_output/test.html`的区别, 也可以利用VSC中集成的**git**来对比你对`test/test.html`处理前后的区别.
+
+## 示例代码
+
+[示例脚本](example.py)的使用方式是:
+
+通过Python执行
+
+```shell
+python example.py test/test.html
+```
+
+先给予这个脚本运行权限然后直接执行
+
+```python
+chmod a+x example.py
+./example.py test/test.html
+```
